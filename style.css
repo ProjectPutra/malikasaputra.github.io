@@ -1,0 +1,20 @@
+.banner {
+    height: 100vh;
+    background: url("img/austin-distel-tLZhFRLj6nY-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #555;
+  }
